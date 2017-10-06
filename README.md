@@ -1,2 +1,2 @@
 # xisplprojct
-Xispl project related new and amall codes
+Xispl project related new and small codes
